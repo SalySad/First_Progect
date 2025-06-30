@@ -29,3 +29,4 @@ PyMP3/
 ├── main.py # Главный скрипт  
 ├── main.exe # Скомпилированная версия  
 ├── main.spec # Файл сборки PyInstaller  
+ 
