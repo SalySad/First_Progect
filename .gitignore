@@ -1,0 +1,22 @@
+# Python кэш и временные файлы
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+venv/
+
+# PyInstaller/py2exe build output
+build/
+*.spec
+*.exe
+
+# Логи, базы и временные файлы
+*.log
+*.tmp
+
+# VS Code настройки
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
